@@ -1,0 +1,6 @@
+#!/bin/bash
+sudo apt update -y
+sudo apt upgrade -y
+sudo apt install -y apache2 php php-mysql
+sudo systemctl restart apache2
+sudo apt install mariadb-client-core
