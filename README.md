@@ -6,4 +6,4 @@ Este repositorio contiene el código y las instrucciones necesarias para despleg
 Antes de comenzar, asegúrate de tener lo siguiente:
 
 - Una cuenta de AWS.
-- Conocimientos básicos de AWS, Terraform y LAMP.
+- Conocimientos básicos de AWS, AWS CloudFormation y LAMP.
